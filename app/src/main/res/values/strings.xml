@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Conversão Dóla</string>
+    <string name="informe_valor">Por favor, informe o valor em Real!</string>
+    <string name="conversao_dolar">Conversão Dólar</string>
+    <string name="valor_real">Valor Real:</string>
+    <string name="valor_dolar">Valor Dólar:</string>
+</resources>
